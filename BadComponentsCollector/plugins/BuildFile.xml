@@ -6,4 +6,6 @@
 <use name="CondFormats/SiPixelObjects"/>
 <use name="CondFormats/SiStripObjects"/>
 <use name="CalibFormats/SiStripObjects"/>
+<use name="CalibTracker/StandaloneTrackerTopology"/>
+<use name="rootgraphics"/>
 <flags EDM_PLUGIN="1"/>
