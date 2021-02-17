@@ -1,0 +1,9 @@
+<use name="DataFormats/TrackReco"/>
+<use name="FWCore/Framework"/>
+<use name="FWCore/ParameterSet"/>
+<use name="FWCore/PluginManager"/>
+<use name="CondFormats/DataRecord"/>
+<use name="CondFormats/SiPixelObjects"/>
+<use name="CondFormats/SiStripObjects"/>
+<use name="CalibFormats/SiStripObjects"/>
+<flags EDM_PLUGIN="1"/>
